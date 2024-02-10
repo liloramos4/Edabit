@@ -13,5 +13,6 @@ longest_substring("594127169973391692147228678476") ➞ "16921472"
 longest_substring("721449827599186159274227324466") ➞ "7214"
  substrings = 7214, 498, 27, 18, 61, 9274, 27, 32
  7214 and 9274 have same length, but 7214 occurs first.
+ 
 Notes
 The minimum alternating substring size is 2, and there will always be at least one alternating substring.
