@@ -26,7 +26,7 @@ An authentic vowel skewer is a skewer with a delicious and juicy mix of consonan
 
 Skewers must begin and end with a consonant.
 Skewers must alternate between consonants and vowels.
-There must be an even spacing between each letter on the skewer, so that there is a consistent flavour throughout.
+There must be even spacing between each letter on the skewer, so that there is a consistent flavor throughout.
 Create a function which returns whether a given vowel skewer is authentic.
 
 Examples
@@ -47,3 +47,7 @@ Notes:
 
 All tests will be given in uppercase.
 Strings without any actual skewer "-" or letters should return False.
+
+## Running Tests
+
+Run `pytest` in the project root to execute the unit tests.
